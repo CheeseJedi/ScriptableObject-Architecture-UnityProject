@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: SOArchitecture_Settings
   m_EditorClassIdentifier: 
   _drawEventGizmos: 1
-  _codeGenerationTargetDirectory: Test/SO Architecture
+  _codeGenerationTargetDirectory: SO-Architecture
   _codeGenerationAllowOverwrite: 0
   _defualtCreateAssetMenuOrder: 120
   _enableDebug: 0
