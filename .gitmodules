@@ -1,0 +1,3 @@
+[submodule "Packages/ScriptableObject-Architecture"]
+	path = Packages/ScriptableObject-Architecture
+	url = https://github.com/CheeseJedi/ScriptableObject-Architecture
